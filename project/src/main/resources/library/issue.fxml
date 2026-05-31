@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.library.controller.IssueController"
+            stylesheets="@styles.css">
+
+    <top>
+        <VBox alignment="CENTER"
+              spacing="10"
+              styleClass="header">
+
+            <Label text="Issue Book"
+                   styleClass="page-title"/>
+
+        </VBox>
+    </top>
+
+    <center>
+
+        <VBox spacing="15"
+              styleClass="content">
+
+            <GridPane hgap="10"
+                      vgap="10">
+
+                <Label text="Book Title:" GridPane.rowIndex="0"/>
+
+                <TextField fx:id="bookTitleField"
+                           promptText="Book Title"
+                           GridPane.columnIndex="1"
+                           GridPane.rowIndex="0"/>
+
+                <Label text="Borrower:"
+                       GridPane.rowIndex="1"/>
+
+                <TextField fx:id="borrowerField"
+                           promptText="Borrower Name"
+                           GridPane.columnIndex="1"
+                           GridPane.rowIndex="1"/>
+
+            </GridPane>
+
+            <Button text="Issue Book"
+                    onAction="#handleIssue"
+                    styleClass="primary-button"/>
+            <Button text="Go back"
+                    onAction="#returnDashboard"
+                    styleClass="primary-button"/>
+
+            <TableView fx:id="issueTable"
+                       VBox.vgrow="ALWAYS">
+
+                <columns>
+
+                    <TableColumn fx:id="idColumn"
+                                 text="ID"/>
+
+                    <TableColumn fx:id="bookColumn"
+                                 text="Book"/>
+
+                    <TableColumn fx:id="borrowerColumn"
+                                 text="Borrower"/>
+
+                    <TableColumn fx:id="dateColumn"
+                                 text="Date"/>
+
+                </columns>
+
+            </TableView>
+
+        </VBox>
+
+    </center>
+
+</BorderPane>

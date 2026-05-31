@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.library.controller.DashboardController"
+            stylesheets="@styles.css">
+
+    <VBox alignment="CENTER"
+          spacing="20"
+          AnchorPane.topAnchor="0.0"
+          AnchorPane.bottomAnchor="0.0"
+          AnchorPane.leftAnchor="0.0"
+          AnchorPane.rightAnchor="0.0"
+          styleClass="dashboard">
+
+        <Label text="Library Management System"
+               styleClass="title"/>
+
+        <Button
+                text="Logout"
+                styleClass="menu-button"
+                onAction="#logout"/>
+
+        <Button text="Books"
+                onAction="#openBooks"
+                styleClass="menu-button"/>
+
+        <Button text="Issue Books"
+                onAction="#openIssues"
+                styleClass="menu-button"/>
+
+        <Button text="Statistics"
+                onAction="#openStatistics"
+                styleClass="menu-button"/>
+
+    </VBox>
+
+</AnchorPane>

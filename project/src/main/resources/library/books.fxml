@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.library.controller.BookController"
+            stylesheets="@styles.css">
+
+    <top>
+        <HBox styleClass="header">
+            <Label text="Library Management System"
+                   styleClass="header-title"/>
+        </HBox>
+    </top>
+
+    <left>
+        <VBox spacing="15" styleClass="sidebar">
+
+            <Label text="Book Details"
+                   styleClass="section-title"/>
+
+            <TextField fx:id="titleField"
+                       promptText="Title"/>
+
+            <TextField fx:id="authorField"
+                       promptText="Author"/>
+
+            <TextField fx:id="isbnField"
+                       promptText="ISBN"/>
+
+            <TextField fx:id="yearField"
+                       promptText="Publication Year"/>
+
+            <TextField fx:id="quantityField"
+                       promptText="Quantity"/>
+
+            <Separator/>
+
+            <HBox spacing="10" fillHeight="true">
+
+                <Button text="Add"
+                        fx:id="addButton"
+                        maxWidth="Infinity"
+                        HBox.hgrow="ALWAYS"
+                        onAction="#handleAddBook"
+                        styleClass="success-button"/>
+
+                <Button text="Update"
+                        fx:id="updateButton"
+                        maxWidth="Infinity"
+                        HBox.hgrow="ALWAYS"
+                        onAction="#handleUpdateBook"
+                        styleClass="primary-button"/>
+
+            </HBox>
+
+            <Button text="Delete"
+                    fx:id="deleteButton"
+                    maxWidth="Infinity"
+                    onAction="#handleDeleteBook"
+                    styleClass="danger-button"/>
+            <Button text="Return to dashboard"
+                    maxWidth="Infinity"
+                    onAction="#returnPage"
+                    styleClass="danger-button"/>
+
+        </VBox>
+    </left>
+
+    <center>
+        <VBox spacing="10" styleClass="content">
+
+            <Label text="Library Inventory"
+                   styleClass="section-title"/>
+
+            <TextField fx:id="searchField"
+                       promptText="Search books..."/>
+
+            <TableView fx:id="bookTable"
+                       VBox.vgrow="ALWAYS">
+
+                <columns>
+                    <TableColumn fx:id="idColumn"
+                                 text="ID"
+                                 prefWidth="60"/>
+
+                    <TableColumn fx:id="titleColumn"
+                                 text="Title"
+                                 prefWidth="220"/>
+
+                    <TableColumn fx:id="authorColumn"
+                                 text="Author"
+                                 prefWidth="180"/>
+
+                    <TableColumn fx:id="isbnColumn"
+                                 text="ISBN"
+                                 prefWidth="180"/>
+
+                    <TableColumn fx:id="yearColumn"
+                                 text="Year"
+                                 prefWidth="90"/>
+
+                    <TableColumn fx:id="quantityColumn"
+                                 text="Quantity"
+                                 prefWidth="90"/>
+                </columns>
+
+            </TableView>
+
+        </VBox>
+    </center>
+
+</BorderPane>
