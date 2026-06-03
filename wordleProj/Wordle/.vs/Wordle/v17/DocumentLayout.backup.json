@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C163E0DE-71ED-4C5E-80BE-0D85D1EDC9CE}|Wordle.Application\\Wordle.Application.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.application\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C163E0DE-71ED-4C5E-80BE-0D85D1EDC9CE}|Wordle.Application\\Wordle.Application.csproj|solutionrelative:wordle.application\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A01E859-81F6-49A5-931C-F6C1A87A4C5A}|Wordle.Infrastructure\\Wordle.Infrastructure.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A01E859-81F6-49A5-931C-F6C1A87A4C5A}|Wordle.Infrastructure\\Wordle.Infrastructure.csproj|solutionrelative:wordle.infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A01E859-81F6-49A5-931C-F6C1A87A4C5A}|Wordle.Infrastructure\\Wordle.Infrastructure.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A01E859-81F6-49A5-931C-F6C1A87A4C5A}|Wordle.Infrastructure\\Wordle.Infrastructure.csproj|solutionrelative:wordle.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|solutionrelative:wordle.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|solutionrelative:wordle.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.domain\\models\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|solutionrelative:wordle.domain\\models\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.domain\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3659125-4337-4679-AA65-650A9B1424C7}|Wordle.Domain\\Wordle.Domain.csproj|solutionrelative:wordle.domain\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C163E0DE-71ED-4C5E-80BE-0D85D1EDC9CE}|Wordle.Application\\Wordle.Application.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.application\\wordle.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C163E0DE-71ED-4C5E-80BE-0D85D1EDC9CE}|Wordle.Application\\Wordle.Application.csproj|solutionrelative:wordle.application\\wordle.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A01E859-81F6-49A5-931C-F6C1A87A4C5A}|Wordle.Infrastructure\\Wordle.Infrastructure.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A01E859-81F6-49A5-931C-F6C1A87A4C5A}|Wordle.Infrastructure\\Wordle.Infrastructure.csproj|solutionrelative:wordle.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C163E0DE-71ED-4C5E-80BE-0D85D1EDC9CE}|Wordle.Application\\Wordle.Application.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C163E0DE-71ED-4C5E-80BE-0D85D1EDC9CE}|Wordle.Application\\Wordle.Application.csproj|solutionrelative:wordle.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|c:\\users\\sandr\\onedrive\\desktop\\wordle\\wordle.api\\wordle.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B10B9BED-6EC9-43A6-BA44-0B7A6C00ACDC}|Wordle.API\\Wordle.API.csproj|solutionrelative:wordle.api\\wordle.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Wordle.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Wordle.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T14:49:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "Wordle.API\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "Wordle.API\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:17:42.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Wordle.API\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Wordle.API\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:17:02.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Wordle.API\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Wordle.API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:49:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Wordle.API\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Wordle.API\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:49:12.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Wordle.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Wordle.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:47:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Application\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "Wordle.Application\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Application\\Service\\JwtService.cs",
+              "RelativeToolTip": "Wordle.Application\\Service\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:44:21.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Wordle.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Wordle.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:34:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Program.cs",
+              "RelativeDocumentMoniker": "Wordle.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Program.cs",
+              "RelativeToolTip": "Wordle.API\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwF4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:12:51.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Wordle.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\appsettings.json",
+              "RelativeToolTip": "Wordle.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T13:12:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Wordle.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Wordle.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:10:37.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Wordle.Domain\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Models\\Game.cs",
+              "RelativeToolTip": "Wordle.Domain\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:02:19.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Models\\Statistic.cs",
+              "RelativeDocumentMoniker": "Wordle.Domain\\Models\\Statistic.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Models\\Statistic.cs",
+              "RelativeToolTip": "Wordle.Domain\\Models\\Statistic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:01:55.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Wordle.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Wordle.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:01:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Wordle.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Application\\Wordle.Application.csproj",
+              "RelativeDocumentMoniker": "Wordle.Application\\Wordle.Application.csproj",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Application\\Wordle.Application.csproj",
+              "RelativeToolTip": "Wordle.Application\\Wordle.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T12:59:54.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Wordle.API.csproj",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Wordle.API.csproj",
+              "RelativeDocumentMoniker": "Wordle.API\\Wordle.API.csproj",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.API\\Wordle.API.csproj",
+              "RelativeToolTip": "Wordle.API\\Wordle.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T12:57:51.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "Wordle.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Infrastructure\\Program.cs",
+              "RelativeToolTip": "Wordle.Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:57:23.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "Wordle.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Domain\\Program.cs",
+              "RelativeToolTip": "Wordle.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:57:03.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Application\\Program.cs",
+              "RelativeDocumentMoniker": "Wordle.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\Desktop\\Wordle\\Wordle.Application\\Program.cs",
+              "RelativeToolTip": "Wordle.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:56:24.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
